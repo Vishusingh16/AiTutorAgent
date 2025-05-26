@@ -1,0 +1,18 @@
+
+  server:
+    port: 8080 # Or any port you prefer
+
+  spring:
+    application:
+      name: demo
+  gemini:
+    api:
+      key: AIzaSyDejdf9fWkzmtfc6xVbK-163DhuSxt_EgM  # You can keep this if your client ALSO uses it, or remove it if only the URL is used
+      url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDejdf9fWkzmtfc6xVbK-163DhuSxt_EgM    # Example with key in URL (recommended for Gemini):
+      # url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${gemini.api.key}
+
+  # If you want to externalize the key further:
+  # gemini.api.key: ${GEMINI_API_KEY_ENV_VAR}
+
+  #
+  #  AIzaSyDejdf9fWkzmtfc6xVbK-163DhuSxt_EgM
