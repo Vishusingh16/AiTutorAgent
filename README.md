@@ -8,8 +8,14 @@ Welcome to the **AI Tutor Web App**! This innovative project features two AI-pow
 
 **VAISHNAV SINGH**
 *(Full Stack Developer | Game Developer | AI Integrator)*
+![Screenshot (189)](https://github.com/user-attachments/assets/3d9e171a-f2f3-408d-b512-6173312dd2ff)
+![Screenshot (190)](https://github.com/user-attachments/assets/44a07a41-1890-491e-a813-b373eeddac0c)
+![Screenshot (191)](https://github.com/user-attachments/assets/da143b95-7ec1-4c64-81e9-acd4d3879731)
+![Screenshot (192)](https://github.com/user-attachments/assets/68b0227f-6944-46b2-8a82-b68c8d116b01)
+![Screenshot (187)](https://github.com/user-attachments/assets/8f31c27e-ea25-42f3-b308-708cc5dfdfbb)
 
----
+---![Screenshot (188)](https://github.com/user-attachments/assets/47a02ace-0ed6-4566-b05d-bfc59d25d25a)
+
 
 ## 📦 Project Structure
 
